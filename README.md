@@ -15,5 +15,6 @@ Automates the process of downloading, extracting, and building ONNX Runtime on W
 - **ONNX Runtime 1.16.2** with Python 3.8-3.11 (Debug)
 
 ---
---> https://github.com/olilarkin/ort-builder  
+.bats forked and adapted from
+https://github.com/olilarkin/ort-builder  
 --> https://github.com/olilarkin/ort-builder/issues/6#issue-2001004788
